@@ -7,3 +7,12 @@ interface docments:
 3, change the work to git
 
 4,broadcast git to the friends.
+
+
+
+5.newwork is out.
+:
+
+test stashing tools.
+
+modification the last commit content.
