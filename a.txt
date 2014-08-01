@@ -16,3 +16,6 @@ interface docments:
 test stashing tools.
 
 modification the last commit content.
+
+
+study git .
